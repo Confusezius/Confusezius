@@ -7,4 +7,4 @@
 - 📫 Reach me for collabs or just general question: [Email](mailto:karsten.rh1@gmail.com)
 
 
-
+![My github stats](https://github-readme-stats.vercel.app/api?username=Confusezius&show_icons=true&theme=dracula)
