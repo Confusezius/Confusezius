@@ -14,4 +14,4 @@ I'm also a remote research intern at [Vector with Prof. Marzyeh Ghassemi](http:/
 You can find me on [Twitter](https://twitter.com/confusezius) or [LinkedIn](https://www.linkedin.com/in/karsten-roth) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=93ZjIs0AAAAJ) and [Homepage](https://karroth.com)!
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Confusezius&show_icons=true&theme=dracula)
+<!--![My github stats](https://github-readme-stats.vercel.app/api?username=Confusezius&show_icons=true&theme=dracula) -->
