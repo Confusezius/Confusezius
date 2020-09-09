@@ -7,7 +7,7 @@ I'm also a remote research intern at [Vector with Prof. Marzyeh Ghassemi](http:/
 
 🤔 Most of my current work focuses on out-of-distribution generalization for zero- and few-shot learning and medical representation learning.
 
-📫 Reach me for collabs or just general question: [Email](mailto:karsten.rh1@gmail.com)
+📫 Reach me for collabs or just general questions [here](mailto:karsten.rh1@gmail.com)
 
 <!-- Actual text -->
 
