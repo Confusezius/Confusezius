@@ -2,7 +2,7 @@
 
 
 **🌱  Currently**:
-* IMPRS-IS & ELLIS Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://eml-unitue.de/people) (University of Tuebingen). Supervisors: [Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ) & [Oriol Vinyals](https://scholar.google.com/citations?user=NkzyCvUAAAAJ&hl=de).
+* [IMPRS-IS](https://imprs.is.mpg.de/) & [ELLIS](https://ellis.eu/) Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://eml-unitue.de/people) (University of Tuebingen). Supervisors: [Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ) & [Oriol Vinyals](https://scholar.google.com/citations?user=NkzyCvUAAAAJ&hl=de).
 
 **🌱  Previously**:
 * Research intern at [Amazon AWS Tuebingen](https://www.amazon.science/) 
