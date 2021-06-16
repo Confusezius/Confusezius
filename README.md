@@ -2,15 +2,15 @@
 
 
 **🌱  Currently**:
-* Finishing my Physics Masters at Heidelberg University and the Heidelberg Collaboratory for Image Processing at [Prof. Bjoern Ommers computer vision group](https://hci.iwr.uni-heidelberg.de/compvis/prof-ommer).   
-* Research intern at the Amazon AWS Lablet in Tuebingen.
+* IMPRS-IS & ELLIS Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://eml-unitue.de/people) (University of Tuebingen). Supervisors: [Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ) & [Oriol Vinyals](https://scholar.google.com/citations?user=NkzyCvUAAAAJ&hl=de).
 
 **🌱  Previously**:
+* Research intern at [Amazon AWS Tuebingen](https://www.amazon.science/) 
 * Research intern at [Vector with Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/) 
 * Research intern at [Mila with Dr. Joseph Paul Cohen and Prof. Yoshua Bengio](https://mila.quebec/).
 
 
-🤔 Most of my current work focuses on out-of-distribution generalization for zero- and few-shot learning and medical representation learning.
+🤔 Most of my current work focuses on multimodal representation learning and out-of-distribution generalization for zero- and few-shot learning.
 
 📫 Reach me for collabs or just general questions [here](mailto:karsten.rh1@gmail.com).
 
