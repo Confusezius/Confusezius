@@ -10,13 +10,16 @@
 * Research intern at [Mila with Dr. Joseph Paul Cohen and Prof. Yoshua Bengio](https://mila.quebec/).
 
 
-🤔 Most of my current work focuses on multimodal representation learning and out-of-distribution generalization for zero- and few-shot learning.
+🤔 Most of my current work focuses on multimodal & contrastive representation learning as well as out-of-distribution generalization for zero- and few-shot learning.
 
 📫 Reach me for collabs or just general questions [here](mailto:karsten.rh1@gmail.com).
 
 <!-- Actual text -->
 
 You can find me on [Twitter](https://twitter.com/confusezius) or [LinkedIn](https://www.linkedin.com/in/karsten-roth) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=93ZjIs0AAAAJ) and [Homepage](https://karroth.com)!
+
+[![Repo stats](https://github-readme-stats.vercel.app/api?username=confusezius)](https://github.com/confusezius/github-readme-stats)
+
 
 
 <!--![My github stats](https://github-readme-stats.vercel.app/api?username=Confusezius&show_icons=true&theme=dracula) -->
