@@ -2,10 +2,10 @@
 
 
 **🌱  Currently**:
-* Research Scientist Intern at Meta AI, Paris working on disentangled and out-of-distribution representation learning.
 * [IMPRS-IS](https://imprs.is.mpg.de/) & [ELLIS](https://ellis.eu/) Computer Science PhD Student, currently at the [Explainable Machine Learning Group](https://eml-unitue.de/people) (University of Tuebingen). Supervisors: [Zeynep Akata](https://scholar.google.com/citations?user=jQl9RtkAAAAJ) & [Oriol Vinyals](https://scholar.google.com/citations?user=NkzyCvUAAAAJ&hl=de).
 
 **🌱  Previously**:
+* Research Scientist Intern at Meta AI, Paris working on disentangled and out-of-distribution representation learning.
 * Research intern at [Amazon AWS Tuebingen](https://www.amazon.science/) 
 * Research intern at [Vector with Prof. Marzyeh Ghassemi](http://www.marzyehghassemi.com/) 
 * Research intern at [Mila with Dr. Joseph Paul Cohen and Prof. Yoshua Bengio](https://mila.quebec/).
