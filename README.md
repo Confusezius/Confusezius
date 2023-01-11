@@ -18,5 +18,3 @@
 <!-- Actual text -->
 
 You can find me on [Twitter](https://twitter.com/confusezius) or [LinkedIn](https://www.linkedin.com/in/karsten-roth) - for my research and latest updates, check out my [Google Scholar](https://scholar.google.com/citations?user=93ZjIs0AAAAJ) and [Homepage](https://karroth.com)!
-
-[![Repo stats](https://github-readme-stats.vercel.app/api?username=confusezius)](https://github.com/confusezius/github-readme-stats)
